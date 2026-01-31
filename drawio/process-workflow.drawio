@@ -1,0 +1,23 @@
+[START] → [Extract Employee Data from HR System] → [Create Survey in Microsoft Forms]
+    ↓
+[Set Up Excel Tracker with Formulas] → [Configure SharePoint Access Levels]
+    ↓
+[Distribute Survey to All Employees] → [Physical Register Sign-off]
+    ↓
+[Daily Tracker Updates] → [Monitor Participation Dashboard]
+    ↓
+[Survey Closure] → [Export Responses to Excel]
+    ↓
+[Data Cleaning & Analysis] → [Create PivotTables & Charts]
+    ↓
+[Compile PowerPoint Report] → [Present to Stakeholders]
+    ↓
+[Archive to SharePoint] → [Update Templates] → [END]
+
+Style tips: Use different colours for:
+
+Data collection (blue)
+Analysis (green)
+Reporting (orange)
+Storage (grey)
+
