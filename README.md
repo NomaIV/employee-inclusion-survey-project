@@ -43,9 +43,10 @@ This initiative addressed the exclusion of temporary employees from a global com
 ## Repository Contents
 
 ### `/templates` – Reusable Components
-- `participation-tracker.xlsx` – Tracking dashboard with formulas
-- `analysis-workbook.xlsx` – Analytical workbook with sample data
+
 - `wellness-survey-questions.md` – Anonymised survey structure
+- `analysis-workbook-sample.md` – Documentation of analysis framework *(sample data coming soon)*
+- `participation-tracker-sample.md` – Dashboard functionality overview *(sample data coming soon)*
 - `report-presentation.pptx` – Reporting template
 
 ### `/documentation` – Process & Learning
