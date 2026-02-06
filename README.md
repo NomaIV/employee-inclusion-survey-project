@@ -73,6 +73,11 @@ While the current Microsoft-based solution effectively met requirements, potenti
 - Automated reporting through Python or Power BI
 - Real-time dashboarding for continuous sentiment monitoring
 
+## Project Status Note
+This portfolio project is actively being enhanced with interactive samples. The analysis framework and participation tracking system documentation is complete, with sample data implementation in progress.
+
+*Last updated: 06/02/2026 - Sample data implementation scheduled for completion by 18/02/2026*
+
 ---
 
 *Note: This repository contains anonymised templates and documentation based on a real workplace initiative. All company-specific data, branding, and confidential information have been removed.*
